@@ -539,10 +539,10 @@ msgid "Select a package to install:"
 msgstr "Seleziona il pacchetto da installare:"
 
 msgid "Select an image to Download:"
-msgstr "Seleziona un' immagine da ripristinare"
+msgstr "Seleziona un'immagine da ripristinare"
 
 msgid "Select an image to restore:"
-msgstr "Seleziona l' immagine da ripristinare:"
+msgstr "Seleziona l'immagine da ripristinare:"
 
 msgid "Select extra packages folder"
 msgstr "Seleziona"
@@ -566,7 +566,7 @@ msgid "Set the repeat interval of backup schedule."
 msgstr "Imposta l'intervallo di ripetione backup"
 
 msgid "Set the time of backup to start."
-msgstr "Imposta l' ora di avvio backup."
+msgstr "Imposta l'ora di avvio backup."
 
 msgid "Setting Up..."
 msgstr "Sto impostendo..."
@@ -724,7 +724,7 @@ msgid ""
 "Wait please while scanning\n"
 "for softcam's..."
 msgstr ""
-"Attendere, verificasoftcam\n"
+"Attendere, verifica softcam\n"
 "in corso..."
 
 msgid "Wait please while scanning..."
